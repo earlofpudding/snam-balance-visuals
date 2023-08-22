@@ -1,0 +1,12 @@
+{
+  "name": "snam-balance-visuals",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:earlofpudding/snam-balance-visuals.git",
+  "author": "earlofpudding <rafaqali@gmail.com>",
+  "license": "GPL",
+  "private": true,
+  "dependencies": {
+    "@google-cloud/datastore": "^8.0.0"
+  }
+}
